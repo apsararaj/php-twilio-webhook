@@ -1,0 +1,12 @@
+{
+  "name": "apsara/twilo_php_webhook",
+  "autoload": {
+    "psr-4": {
+      "Apsara\\TwiloPhpWebhook\\": "src/"
+    }
+  },
+  "require": {
+    "twilio/sdk": "^7.10",
+    "vlucas/phpdotenv": "^5.5"
+  }
+}
