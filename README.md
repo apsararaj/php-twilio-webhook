@@ -24,13 +24,7 @@ This project sets up a PHP webhook that listens for incoming calls on a Twilio p
 
 ## 📦 Installation
 
-1. **Clone the repo** or create your project directory:
-
-   ```bash
-   mkdir twilio-voice-websocket
-   cd twilio-voice-websocket
-
-2. **Install dependencies using Composer:** :
+1. **Install dependencies using Composer:** :
 
    ```bash
    composer install
